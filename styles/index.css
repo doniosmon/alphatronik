@@ -16,3 +16,7 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+main p {
+  @apply my-2;
+}
